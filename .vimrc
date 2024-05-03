@@ -105,7 +105,7 @@ if version >= 500
 
 	" turn line numbers on
 	"set number
-
+    set relativenumber
 	" highlight matching braces
 	set showmatch
 
